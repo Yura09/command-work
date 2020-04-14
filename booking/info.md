@@ -12,3 +12,4 @@
 
 Ціна: UAH 2550 (включає податки та збори) за 2 ночі  4 людини<br />
 [Готель](https://www.booking.com/hotel/ua/lavina-bukoviel.uk.html)<br />
+![hotel's photo](booking/image.png)
